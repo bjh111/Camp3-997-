@@ -7,3 +7,4 @@
 +【本课程学习基础】：Pycharm
 +【本期活动目标】：对LLM了解更多
 
+[Git Hub仓库](https://github.com/InternLM/Tutorial)
